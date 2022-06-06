@@ -24,6 +24,19 @@ Deploy Link : https://tender-franklin-65f485.netlify.app/
 2. Prabhat
 3. Zaki Ansari
 
+<h1>Home Page</h1>
+<img src="https://user-images.githubusercontent.com/99637633/172170662-0b4725d5-6c8a-442e-b2a9-c584e0059c34.PNG"/>
 
+<h1>Product Page</h1>
+<img src="https://user-images.githubusercontent.com/99637633/172171739-545fc414-79fa-4ab0-9aa6-ec4adaffb22b.PNG"/>
+
+<h1>Cart Page</h1>
+<img src="https://user-images.githubusercontent.com/99637633/172172057-79b14189-c967-45f1-9b7f-e422eaaf47fc.PNG"/>
+
+<h1>CheckOut Page</h1>
+<img src="https://user-images.githubusercontent.com/99637633/172172367-2585f91c-d619-43bc-9b2b-697157f0b6aa.PNG"/>
+
+<h1>Payment Page</h1>
+<img src="https://user-images.githubusercontent.com/99637633/172173600-9db2bffb-28ba-4e9e-ba07-0b73e005f3c4.PNG"/>
 
 
